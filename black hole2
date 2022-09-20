@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="Untitled-2.css">
+<title>Black Holes in The Universe</title>
+</head>
+<body>
+<h2>IDEA OF BLACK HOLES</h2>
+	<p><h3>Don't let the name fool you: a black hole is anything but empty space. Rather, it is a great amount of matter packed into a very small area - think of a star ten times more massive than the Sun squeezed into a sphere approximately the diameter of New York City. The result is a gravitational field so strong that nothing, not even light, can escape. In recent years, NASA instruments have painted a new picture of these strange objects that are, to many, the most fascinating objects in space.</h3></p>	
+	<p><h4>The idea of an object in space so massive and dense that light could not escape it has been around for centuries. Most famously, black holes were predicted by Einstein's theory of general relativity, which showed that when a massive star dies, it leaves behind a small, dense remnant core. If the core's mass is more than about three times the mass of the Sun, the equations showed, the force of gravity overwhelms all other forces and produces a black hole.</h4></p>
+<p>
+	Black holes of stellar mass form when massive stars collapse at the end of their life cycle. After a black hole has formed, it can grow by absorbing mass from its surroundings. Supermassive black holes of millions of solar masses (M☉) may form by absorbing other stars and merging with other black holes. There is consensus that supermassive black holes exist in the centres of most galaxies.
+</p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="Untitled-2.css">
+		  <title>Observing Black Holes</title></head>
+
+<body>
+	<h2>Observing Black Holes</h2>
+	<p>In 1958, David Finkelstein identified the Schwarzschild surface as an event horizon, "a perfect unidirectional membrane: causal influences can cross it in only one direction". This did not strictly contradict Oppenheimer's results, but extended them to include the point of view of infalling observers. Finkelstein's solution extended the Schwarzschild solution for the future of observers falling into a black hole. A complete extension had already been found by Martin Kruskal, who was urged to publish it.</p>
+	<p><h4>Scientists can't directly observe black holes with telescopes that detect x-rays, light, or other forms of electromagnetic radiation. We can, however, infer the presence of black holes and study them by detecting their effect on other matter nearby. If a black hole passes through a cloud of interstellar matter, for example, it will draw matter inward in a process known as accretion.</h4></p>
+	<p><h5>A similar process can occur if a normal star passes close to a black hole. In this case, the black hole can tear the star apart as it pulls it toward itself. As the attracted matter accelerates and heats up, it emits x-rays that radiate into space. Recent discoveries offer some tantalizing evidence that black holes have a dramatic influence on the neighborhoods around them - emitting powerful gamma ray bursts, devouring nearby stars, and spurring the growth of new stars in some areas while stalling it in others.</h5></p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="Untitled-2.css">
+		  <title>Date	Discovery</title></head>
+
+<body><div align="center">
+	<h2>Date	Discovery</h2>
+	<h3>most recent</h3></div>
+	<div table class="style1" align="center">
+		 
+	<table class="style1">
+<td class="style1">March 31, 2022</td class="style1">	<th class="style1">Feasting Black Holes Caught in Galactic Spiderweb (Spiderweb Galaxy Field)</th>
+		<tr class="style1">
+		<td class="style1">February 22, 2022</td>	<th class="style1">How Magnetic Fields Help Feed a Supermassive Black Hole</th></tr>
+		<tr class="style1">
+			<td class="style1">
+			January 19, 2022</td>	<th class="style1">Hubble Finds a Black Hole Igniting Star Formation in a Dwarf Galaxy</th></tr>
+		<tr class="style1">
+		<td class="style1">
+			January 10, 2022</td>	<th class="style1">"Mini" Monster Black Hole Could Hold Clues to Giant's Growth (Mrk 462)</th></tr>
+		<tr class="style"><td class="style1">December 16, 2021</td><th class="style1">	Astronomers Spy Quartet of Cavities From Giant Black Holes: RBS 797</th></tr>
+		<tr class="style1">
+			<td class="style1">December 9, 2021</td><th class="style1">	Mini-Jet Found Near Milky Way's Supermassive Black Hole</th></tr>
+<tr class="style1">
+<td class="style1">November 10, 2021</td>	<th class="style1">Black Holes Can Tell Us the Expansion Rate of the Universe</th></tr>
+		<tr class="style1">
+			<td class="style1">
+				September 16, 2021</td><th class="style1">	Jingle, Pluck, and Hum: Sounds from Space</th></tr>
+		<tr class="style1">
+<td class="style1">August 5, 2021</td>	<th class="style1">Huge Rings Around a Black Hole (V404 Cygni)</th>
+</tr>
+		<tr class="style1"><td class="style1">
+			June 28, 2021</td><th class="style1">	Supermassive Black Holes May Generate ‘Tsunamis’ in Escaping Gas</th></tr>
+		<tr class="style1"><td class="style1">
+			April 14, 2021</td><th class="style1">	Telescopes Unite in Unprecedented Observations of Famous Black Hole: M87</th></tr>
+		<tr class="style1"><td class="style1">March 9, 2021</td><th class="style1">	Gigantic Jet Spied From Black Hole in Early Universe (PJ352-15)</th></tr>
+		<tr class="style1">	<td class="style1">February 11, 2021</td><th class="style1">Hubble Uncovers Concentration of Small Black Hole</th></tr>
+		<tr class="style1"><td class="style1">January 14, 2021</td><th class="style1">	Galaxies Hit Single, Doubles, and a Triple (Growing Black Holes)</th></tr>		</table class="style1"></div>
+	</body>
+</html>
+
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("blackhole.jpg");
+ background-repeat: no-repeat;
+  background-size: auto;
+	background-color: #cccccc;
+}
+head{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+p{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color:white;
+}
+
+h1{color: aqua;
+font-style: italic;}
+h2{color:mediumspringgreen;
+font-style: oblique}
+h3{color: white;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+h4{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color: white;}
+h5{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color: white;}
+h6{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color:white;}
+p{color:white;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+table.style1,th.style1,td.style1{color:lightblue;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+border:3px solid;
+background-color:darkblue}
+table.style1{width: 50%;
+background-color: lightgoldenrodyellow;
+color:lightgoldenrodyellow;}
+
