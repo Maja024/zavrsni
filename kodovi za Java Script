@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Select a new car from the list.</p>
+
+<select id="mySelect" onchange="myFunction()">
+  <option value="222222">22222</option>
+  <option value="11111">11111</option>
+  <option value="444444">44444</option>
+  <option value="33333">33333</option>
+</select>
+
+<p>When you select a new car, a function is triggered which outputs the value of the selected car.</p>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("mySelect").value;
+  document.getElementById("demo").innerHTML = "You selected: " + x;
+}
+</script>
+
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<script type="text/javascript" >
+var π="3.14";
+var r2="12";
+	var H="11"
+document.write(  V=r2 * π * H);
+	alert("the awnser to the formula V=r2 * π * H is..." );
+	alert("DRUM ROLL.....")
+</script>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<script>
+		 {var a="0.3";
+							var b="1";
+							 var c="3.3";
+	
+							var P= 2*(a*b+a*c+b*c);}
+		document.write(P= 2*(a*b+a*c+b*c));
+		alert("the awnser is "+P+".")
+		
+	</script>
+</body>
+</html>
