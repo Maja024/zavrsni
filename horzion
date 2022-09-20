@@ -1,0 +1,65 @@
+<DOCTYPE! html>
+    <html lang="en">
+        <link rel="stylesheet" href="design.css"
+<head>
+    <meta charset="UTF-8"
+
+<title><h1>    <div style="text-align:center;">Horizon</div></h1></title>
+</head>
+<body>
+    <p>
+    <div style="text-align: center;">
+    <img src="2.jpg" alt="example" width="500" height="330"></div>
+    </p>
+<p>
+    <div style="text-align:center;">
+    <li>helloworld1</li>
+    <li>helloworld2</li>
+    <li>helloworld3</li></p>
+</div>
+<p>  <table class="style2">
+            
+            <tr class="style2">
+            <td class="style2">!!!!!
+<td class="style2">???????</td class="style2">
+<td class="style2"> 
+111)</td class="style2">
+<td class="style2">222222</td class="style2"></tr class="style2">
+<tr class="style2">
+  <td class="style2"> 33333</td class="style2">
+<td class="style2">444444</td class="style2">
+<td class="style2">55555</td class="style2">
+<td class="style2">66666</td class="style2"></tr class="style2">
+    <tr class="style2">
+<td class="style2">7777</td class="style2">
+<td class="style2">    88888</td class="style2">
+<td class="style2">99999</td class="style2">
+<td class="style2">----- </td class="style2"> </tr class="style2">
+</table class="style2">
+</p>
+</div>
+</body>
+</html>
+
+
+p{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: medium;
+color: white;}
+body {background-image: url(1.jpg);
+background-size: 1360px 710px;
+text-align: calc(100px 100px);
+color:white;}
+h1{color:black;}
+table.style2, th.style2, td.style2{
+    border: 2px solid;
+    color: rgb(253, 253, 253);
+    background-color: rgba(85, 143, 133, 0.589);
+}
+table.style2{width: 60%;
+color: aqua;}
+a.style2{
+    color: white;
+}
+td.style2{
+    height: 60px;
+}
