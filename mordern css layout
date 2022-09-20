@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="style1.css">
+<title>page one </title>
+</head>
+<div id="wrapper">
+	<aside><p><a href="druga.html"> druga</a></p></aside>
+	<body> <div class="header"><h1>hello world1</h1></div>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus, metus eget elementum consequat, urna magna aliquet augue, et pellentesque odio magna et est. Sed malesuada, nulla id dapibus vulputate, augue urna ultricies eros, ac pharetra orci nisl quis justo. Donec eget erat nunc. Praesent eget nunc convallis nisi lacinia laoreet non vitae neque. Nulla ac eros pulvinar, ultricies risus in, congue magna. Aliquam sed fringilla dui. Sed lacinia et diam sit amet finibus. Nam nec mi rhoncus, scelerisque ex ut, imperdiet nulla.</p>
+		
+		<div class="futer">contact us at helloworld1@gmail.com</div>
+</body>
+	</div>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<link rel="stylesheet" href="style1.css">
+<title>Untitled Document</title>
+</head>
+	<aside><p><a href="prva.html"> prva</a></p></aside>
+<body>
+	<div id="wrapper">
+	<table class="style1">
+		<tr class="style1">
+	<td class="style1">Lorem ipsum dolor sit amet</td>
+		<th class="style1">111</th>
+		<th class="style1">222</th>
+		<td class="style1">Lorem ipsum dolor sit amet</td>
+		<th class="style1">333</th>
+		<th class="style1">444</th>
+			</tr>
+		<tr class="style1">
+		<td class="style1">Lorem ipsum dolor sit amet</td>
+			<th class="style1">555</th>
+			<th class="style1">666</th>
+				<td class="style1">Lorem ipsum dolor sit amet</td>
+			<th class="style1">777</th>
+			<th class="style1">888</th>
+			</tr>
+	
+	</table>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus, metus eget elementum consequat, urna magna aliquet augue, et pellentesque odio magna et est. Sed malesuada, nulla id dapibus vulputate, augue urna ultricies eros, ac pharetra orci nisl quis justo. Donec eget erat nunc. Praesent eget nunc convallis nisi lacinia laoreet non vitae neque. Nulla ac eros pulvinar, ultricies risus in, congue magna. Aliquam sed fringilla dui. Sed lacinia et diam sit amet finibus. Nam nec mi rhoncus, scelerisque ex ut, imperdiet nulla.
+	<div class="futer">contact us at helloworld1@gmail.com</div>
+	</div>
+</body>
+</html>
+
+@charset "utf-8";
+/* CSS Document */
+
+/*body, header, futer*/
+body{font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+color: white;
+background-color: #8F8F8F;}
+.header{
+	padding:2%;
+text-align: center;
+background: #ADD8E6;
+color:white;
+font-size:15px;
+} 
+.futer{text-align: center;
+background-color: darkslateblue;
+color: white;
+padding: 3%;
+	font-size:80%;}
+/*table, aside*/
+table.style1, th.style1, td.style1{border: 3px solid;
+text-align: center;}
+table.style1{width: 100%;}
+aside{width: 10%;
+padding-right:2%;
+margin-left: 0%;
+	text-align: center;
+float:left;
+line-height: 100%;
+outline-width: 1%;
+background-color: aliceblue;}
+/*MAIN*/
+main{width: 80%;
+height: 100%;
+background-color: #EC3421;
+margin-left: 17%;}
+.wrapper {
+  margin-right: auto; /* 1 */
+  margin-left:  auto; /* 1 */
+
+  max-width: 960px; /* 2 */
+
+  padding-right: 10px; /* 3 */
+  padding-left:  10px; /* 3 */
